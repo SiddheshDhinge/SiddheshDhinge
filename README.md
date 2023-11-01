@@ -5,6 +5,11 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
+- 🔮 My Projects
+    * [Food Ordering App](https://food-ordering-app-0jfx.onrender.com)
+    * [Result Analysis](https://siddheshdhinge.github.io/PICT-Result-Analysis)
+    * [Bus Booking System](https://busbookingweb.onrender.com)
+
 - 📫 How to reach me **dhinge.siddhesh22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
